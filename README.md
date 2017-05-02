@@ -1,5 +1,7 @@
 # ee-soa-discoverymanager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-discoverymanager.svg)](https://greenkeeper.io/)
+
 Manager for Service Discovery implementations
 
 ## installation
